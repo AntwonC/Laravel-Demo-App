@@ -7,12 +7,12 @@ Form Page<br>
 ![](https://i.imgur.com/UfyQzUP.png)
 
 PHP files that I created: <br> 
-page.blade.php
+page.blade.php<br>
 layout.blade.php 
 <br> 
 
 SCSS file for the Form Page: <br> 
-main.scss
+main.scss<br>
 <br> 
 
 The Laravel Framework handles most of the work for creating this website. 
